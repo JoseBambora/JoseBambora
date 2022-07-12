@@ -37,7 +37,7 @@ Technoly that I did some things:(*)
    <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
     
   <p></p>
-  (*) I need to invest more time on them in order to have full / more knowledge about them
+  (*) I need to invest more time on them in order to have more knowledge about them
 </div>  
 
 <!--
