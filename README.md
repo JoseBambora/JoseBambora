@@ -30,7 +30,7 @@ Technology that I have worked with:
 </div>  
 
 <div>
-  You can contact me by sending an email to josecarvalho.ei@gmail.com, or send a message on linkedin <img height = 50 width = 50 src="https://www.linkedin.com/in/jos%C3%A9-carvalho-a857a2227/"/>
+  You can contact me by sending an email to josecarvalho.ei@gmail.com, or send a message on linkedin https://www.linkedin.com/in/jos%C3%A9-carvalho-a857a2227/
 </div>
  
 
