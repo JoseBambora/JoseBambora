@@ -4,14 +4,14 @@
 </h1>
 
 <div>
-  My name is José Carvalho and I am 19 years old. 
-  I am studying software engineering at University of Minho in Portugal.
+  My name is José Carvalho and I am 20 years old. 
+  I am graduating for software engineering at University of Minho in Portugal.
 </div>
 
 
 <p></p>
 <div>
-Technology that I know how to work:
+Technology that I have worked with:
   <p></p>
   
   <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -19,26 +19,21 @@ Technology that I know how to work:
   <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /> 
   <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+  
+  
           
   <p></p>
 
-Currently learning:
-  <p></p>
-  
-  <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />       
-  <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" />
-  
-  <p></p>
-
-Technoly that I did some things:(*)
-   <p></p>
-  
-   <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-   <img height = 50 width = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-    
-  <p></p>
-  (*) I need to invest more time on them in order to have more knowledge about them
 </div>  
+
+<div>
+  You can contact me by sending an email to josecarvalho.ei@gmail.com, or send a message on linkedin https://www.linkedin.com/in/jos%C3%A9-carvalho-a857a2227/
+  <img  height = 50 width = 50 src="https://www.linkedin.com/in/jos%C3%A9-carvalho-a857a2227/" />
+</div>
+ 
 
 <!--
 **JoseBambora/JoseBambora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
