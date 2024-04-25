@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/JoséCarvalho-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josecarvalho.ei@gmail.com)
 [![Linkedin](https://img.shields.io/badge/JoséCarvalho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-m-carvalho/)
 
-Hi! My name is José Carvalho and I am 21 years old. Currently I am graduating for software engineering at University of Minho in Portugal, more precisely I am in first year of master degree. I have lived my entire life in Braga and I really enjoy building software, AI being my favourite area inside software engineering. 
+Hi! My name is José Carvalho and I am 21 years old. Currently I am graduating for software engineering at University of Minho in Portugal, more precisely in first year of master degree. I have lived my entire life in Braga and I really enjoy building software, AI being my favourite area inside software engineering. 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=josebambora&count_private=true&show_icons=true&theme=github_dark&hide=contribs&hide_border=true)
 
