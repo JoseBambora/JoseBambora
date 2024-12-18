@@ -1,6 +1,9 @@
 # Welcome to my profile! 
 
-[![Gmail](https://img.shields.io/badge/JoséCarvalho-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josecarvalho.ei@gmail.com) [![Linkedin](https://img.shields.io/badge/JoséCarvalho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-m-carvalho/)
+[![Gmail](https://img.shields.io/badge/JoséCarvalho-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josecarvalho.ei@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/JoséCarvalho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-m-carvalho/)
+[![CV EN](https://img.shields.io/badge/CV-English-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white&labelColor=gray)](https://josebambora.github.io/cvs/Jos%C3%A9Carvalho_EN.pdf)
+[![CV PT](https://img.shields.io/badge/CV-Portuguese-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white&labelColor=gray)](https://josebambora.github.io/cvs/Jos%C3%A9Carvalho_PT.pdf)
 
 <!-- <div align="center">
  <a href="mailto:josecarvalho.ei@gmail.com">
