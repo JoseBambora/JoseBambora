@@ -13,18 +13,18 @@ I have lived my entire life in Braga and I really enjoy building software, speci
 
 ## Career
 
-| Start   | End     | Organization     | Function            |
-| ------- | ------- | ---------------- | ------------------- |
-| 04-2025 | Now     | [OmniumAI](https://www.omniumai.com/home)     | Full Stack Engineer |
-| 07-2023 | 07-2023 | [ITSector](https://www.itsector.com/en/)     | Summer Lab          |
-| 07-2022 | 07-2022 | [Cesium](https://cesium.di.uminho.pt/en)       | Summer Camp         |
+| Organization                               | Position             | Start   | End     |
+| ------------------------------------------ | -------------------- | ------- | ------- |
+| [OmniumAI](https://www.omniumai.com/home)  | Full Stack Engineer  | 04-2025 | Now     |
+| [ITSector](https://www.itsector.com/en/)   | Summer Lab           | 07-2023 | 07-2023 |
+| [Cesium](https://cesium.di.uminho.pt/en)   | Summer Camp          | 07-2022 | 07-2022 |
 
 ## Education
 
-| Start   | End     | Organization             | Area                 | Degree   |
-| ------- | ------- | ------------------------ | -------------------- | -------- |
-| 09-2023 | Now     | [University of Minho](https://www.uminho.pt/EN)  | Software Engineering | Master   |
-| 09-2020 | 06-2023 | [University of Minho](https://www.uminho.pt/EN)  | Software Engineering | Bachelor |
+| Organization                                      | Degree   | Area                 |  Start   | End     |
+| ------------------------------------------------  | -------- | -------------------- | ------- | ------- |
+| [University of Minho](https://www.uminho.pt/EN)   | Master   | Software Engineering | 09-2023 | Now     |
+| [University of Minho](https://www.uminho.pt/EN)   | Bachelor | Software Engineering | 09-2020 | 06-2023 |
 
 
 ## Projects
