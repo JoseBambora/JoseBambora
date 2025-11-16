@@ -73,8 +73,3 @@ I have lived my entire life in Braga and I really enjoy building software, speci
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=mui&logoColor=61DAFB)
-
-## Git statistics
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=josebambora&count_private=true&show_icons=true&title_color=fff\&icon_color=FF0000\&text_color=9f9f9f\&bg_color=151515&hide=contribs\&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josebambora&langs_count=7&title_color=fff\&icon_color=FF0000\&text_color=9f9f9f\&bg_color=151515&hide=jupyter%20notebook,Roff,Assembly,c%2B%2B&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
