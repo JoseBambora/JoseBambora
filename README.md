@@ -6,9 +6,11 @@
 
 ## About me
 
-My name is José Carvalho, I am portuguese and I am 23 years old. Currently I am finishing master's degree for software engineering at University of Minho in Portugal and working at OmniumAI. 
+My name is José Carvalho, I am Portuguese, and I am 23 years old. 
 
-I have lived my entire life in Braga and I really enjoy building software, specially AI and web development. 
+I have a master's degree in Software Engineering from the University of Minho, completed in November 2025, focused on AI and software development. 
+
+Currently, I am working at OmniumAI. I have lived my entire life in Braga, and I really enjoy building software. 
 
 
 ## Career
@@ -21,9 +23,9 @@ I have lived my entire life in Braga and I really enjoy building software, speci
 
 ## Education
 
-| Organization                                      | Degree   | Area                 |  Start   | End     |
+| Organization                                      | Degree   | Area                 |  Start   | End    |
 | ------------------------------------------------  | -------- | -------------------- | ------- | ------- |
-| [University of Minho](https://www.uminho.pt/EN)   | Master   | Software Engineering | 09-2023 | Now     |
+| [University of Minho](https://www.uminho.pt/EN)   | Master   | Software Engineering | 09-2023 | 11-2025 |
 | [University of Minho](https://www.uminho.pt/EN)   | Bachelor | Software Engineering | 09-2020 | 06-2023 |
 
 
